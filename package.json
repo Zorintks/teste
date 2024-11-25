@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "normalize-text": "^2.5.0",
+    "openai": "^4.73.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "github:alechkos/whatsapp-web.js#fix-pin-msgs"
+  }
+}
